@@ -17,7 +17,7 @@ Baseado no tutorial do WebSite [Celke](https://celke.com.br/artigo/como-integrar
 ## **Ambientes de Desenvolvimento e Referências**
 
 * IDE:    **VSCODE 1.55.1**
-* [ReactJS](https://pt-br.reactjs.org/):    **version 14.16.0 (x64) and NPM**
+* [NodeJS](https://nodejs.org/en/):    **version 14.16.0 (x64) and NPM**
 
 ## Instalações
 
